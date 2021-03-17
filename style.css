@@ -1,0 +1,25 @@
+body {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	max-height: 200px;
+	margin-bottom: 50px;
+}
+
+#message {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+a, a:hover, a:visited {
+	text-decoration: none;
+}
